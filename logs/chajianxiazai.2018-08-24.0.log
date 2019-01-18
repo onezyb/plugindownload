@@ -1,0 +1,12 @@
+2018-08-24 14:21:46 [INFO][com.ixinnuo.config.SocketServerTest][run][118]-> the socket [/127.0.0.1:61285] has been connection
+2018-08-24 14:21:46 [INFO][com.ixinnuo.config.SocketServerTest][run][128]-> the socket [/127.0.0.1:61285] has been put in ExecutorService
+2018-08-24 14:21:46 [INFO][com.ixinnuo.config.SocketAdapt][run][31]-> 建立了一次连接，服务端开始输出下载流
+2018-08-24 14:21:46 [INFO][com.ixinnuo.config.SocketAdapt][run][101]-> 下载给Ip，/127.0.0.1
+2018-08-24 14:23:08 [INFO][com.ixinnuo.config.SocketServerTest][run][118]-> the socket [/127.0.0.1:61309] has been connection
+2018-08-24 14:23:08 [INFO][com.ixinnuo.config.SocketServerTest][run][128]-> the socket [/127.0.0.1:61309] has been put in ExecutorService
+2018-08-24 14:23:08 [INFO][com.ixinnuo.config.SocketAdapt][run][31]-> 建立了一次连接，服务端开始输出下载流
+2018-08-24 14:23:08 [INFO][com.ixinnuo.config.SocketAdapt][run][101]-> 下载给Ip，/127.0.0.1
+2018-08-24 14:24:02 [INFO][com.ixinnuo.config.SocketServerTest][run][118]-> the socket [/127.0.0.1:61325] has been connection
+2018-08-24 14:24:02 [INFO][com.ixinnuo.config.SocketServerTest][run][128]-> the socket [/127.0.0.1:61325] has been put in ExecutorService
+2018-08-24 14:24:02 [INFO][com.ixinnuo.config.SocketAdapt][run][31]-> 建立了一次连接，服务端开始输出下载流
+2018-08-24 14:24:02 [INFO][com.ixinnuo.config.SocketAdapt][run][101]-> 下载给Ip，/127.0.0.1
